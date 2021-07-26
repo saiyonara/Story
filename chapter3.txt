@@ -3,5 +3,3 @@ this ia a test on file 3
 test 2
 this is a test 4
 stage 5
-stage 6
-stage 7
