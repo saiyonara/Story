@@ -1,2 +1,3 @@
 it was the blurst of times..
 git log
+new change stage 1
